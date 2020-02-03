@@ -6,7 +6,7 @@ body{
 /*side bar */
 .sidebar{
     height: 100vh;
-    background-color:#64DD17 ;
+    background-color: #4527A0 ;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,13 +16,13 @@ body{
     border-bottom: 5px solid white;
 }
 .current{
-    background-color: #b71c1c;
+    background-color: #D1C4E9;
     border-radius: 8px;
     box-shadow: 2px 5px 5px white;
     transition: all .3s;
 }
 .current:hover{
-    background-color: #c62828;
+    background-color: #311B92;
     border-radius: 8px;
     box-shadow: 2px 5px 5px white;
     transform: transform:translateY(-1px);
@@ -31,14 +31,14 @@ body{
     transition: all.4s;
 }
 .sidebar-link:hover{
-    background-color: #c62828;
+    background-color: #311B92;
     border-radius: 5px;
 }
 /* End of side bar */
 
 /* navbar */
 .top-bar{
-    background-color: #64DD17 ;
+    background-color: #4527A0 ;
 }
 .search-input{
     background-color: transparent;
